@@ -2,6 +2,9 @@
   text-align: center;
 }
 
+.dddd{
+  float: absolute center;
+}
 .camera_h{
   height: 200px;
 }
